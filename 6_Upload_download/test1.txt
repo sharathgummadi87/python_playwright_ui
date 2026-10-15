@@ -1,0 +1,5 @@
+name, marks
+sk, 80
+gk, 85
+ea, 86
+za, 88

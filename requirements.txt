@@ -1,0 +1,10 @@
+playwright
+pytest
+openpyxl
+Faker
+allure-python-commons
+pytest-html
+pytest-rerunfailures
+pytest-xdist
+jsonschema
+
